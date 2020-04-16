@@ -1,0 +1,148 @@
+body {
+    background: black;
+    color: white;
+}
+
+.portfolioimg {
+  height: 300px;
+  width: 300px;
+  margin-left: 225px;
+  /* border-style: solid; */
+    /* border-color: white; */
+    /* border-width: 1px; */
+ float: left;
+padding-top: 10px;
+}
+
+.dayplanner{
+    height: 300px;
+    width: 300px;
+    margin-left: 225px;
+    /* border-style: solid; */
+      /* border-color: white; */
+      /* border-width: 1px; */
+   float: left;
+   margin-top: 50px
+}
+
+.paul {
+    height: 300px;
+    width: 300px;
+    margin-left: 225px;
+    float: left;
+    margin-top: 50px;
+}
+
+.assistant {
+    height: 300px;
+    width: 300px;
+    margin-left: 225px;
+    float: left;
+    margin-top: 50px;
+}
+
+.notetaker{
+    height: 200px;
+    width: 250px;
+    margin-left: 225px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px
+}
+
+.developerprofile {
+    height: 200px;
+    width: 250px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px
+}
+
+.contact{
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    text-align: center;
+    width: 250px;
+    margin-left: 550px;
+    margin-top: 200px;
+    line-height: 1.8;
+    
+}
+
+.aboutme{
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    line-height: 1.8;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+
+.myname {
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.fullstack {
+    text-align: center
+}
+
+.denver {
+    text-align: center;
+}
+
+.linkedin{
+    margin-left:1300px;
+    margin-top: 300px;
+  
+}
+
+.fa-github {
+    margin-left: 1300px;
+}
+
+.header1 {
+    margin-left: 550px;
+    margin-top: 5px;
+}
+
+.para1{
+    margin-left: 550px
+}
+
+.header2 {
+    margin-left: 550px;
+   margin-top: 140px;
+}
+
+.para2 {
+    color: white;
+    margin-left: 225px;
+    margin-top: 20px;
+    width: 40%
+}
+
+.para3 {
+    margin-left: 550px
+}
+
+.para4 {
+    margin-left: 550px;
+}
+
+.header3{
+    margin-left: 550px;
+    margin-top: 200px
+}
+
+.paul{
+
+}
+
