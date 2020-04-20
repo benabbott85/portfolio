@@ -6,6 +6,7 @@ function About() {
     <div>
       <h1>About Me</h1>
       <div class="aboutme">
+        
       <p> I was born in New York City on May 13, 1988, and yes that was Friday the 13th. I am the second of two boys,
               my
               older brother is Zach.
