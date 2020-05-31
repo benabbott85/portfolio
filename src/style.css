@@ -142,7 +142,15 @@ padding-top: 10px;
     margin-top: 200px
 }
 
-.paul{
+.techimg{
+    width: 200px;
+    height: 200px;
+    
+}
 
+.techimgreact{
+    width: 200px;
+    height: 200px;
+    left: 400px;
 }
 
