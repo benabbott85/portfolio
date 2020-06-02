@@ -24,6 +24,7 @@ function Portfolio() {
           
           <p class="para4">- I was responsible for the APIs to be used as well as coordinating the JQuery code writing </p>
           
+          <p class="para4">- Repository Link: https://github.com/benabbott85/Project-1</p>          
          
           </div>
 
@@ -46,6 +47,7 @@ function Portfolio() {
           <br></br>
           when the user requests it.
              </p>
+          <p class="para4">- Repository Link: https://github.com/benabbott85/Project-2-</p>
           
          
           </div>
@@ -67,8 +69,8 @@ function Portfolio() {
           <br></br>
           to gain an understanding of what he was looking for  and then designed it from there.
           <br></br>
-          
              </p>
+          <p class="para4">- Repository Link: https://github.com/benabbott85/Paul-Sauchelli</p>
           
          
           </div>
@@ -90,8 +92,8 @@ function Portfolio() {
           <br></br>
           to use passport and I was tasked with wiring that up to run with the routes.
           <br></br>
-          
              </p>
+          <p class="para4">- Repository Link: https://github.com/pitekcharles/project3</p>
           
          
           </div>
