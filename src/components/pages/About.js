@@ -14,7 +14,7 @@ function About() {
       <p> I was born in New York City on May 13, 1988, and yes that was Friday the 13th. I am the second of two boys,
               my
               older brother is Zach.
-              My father was been a practicing labor lawyer for over 40 years working mostly with unions. My mom was a stay
+              My father was a practicing labor lawyer for over 40 years working mostly with unions. My mom was a stay
               at home mom and also
               a choreographer on the side.
               I grew up in a small town, Point Lookout, on the south shore of Long Island about an hour east of the city.
