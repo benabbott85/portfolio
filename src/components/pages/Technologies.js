@@ -20,7 +20,7 @@ function Technologies() {
 <Card>
 <div className="tech2">
   
-  <img className="techimg" src="https://cdn.freebiesupply.com/logos/thumbs/2x/css-3-logo.png" alt="css"></img>
+  <img className="techimg" src="https://www.w3schools.com/whatis/img_css.jpg" alt="css"></img>
   
 </div>
 </Card>
