@@ -29,7 +29,8 @@ function About() {
           <p> After my ski bum year ended, I moved back to New York and settled in Williamsburg, a section of Brooklyn. I
               worked in New York City doing benefits
               administration for collectively bargained union health and pension funds. It was while I was doing this work that I first started
-              to think about working in technology. A colleague tried to convince me that it was a good idea but I was initially hesistant.
+              to think about working in technology. A colleague tried to convince me that it was a good idea but I was initially hesistant. Things
+              can change it seems like.
           </p>
   
           <p> I first started to think about web development as my future while at my previous job. They run a coding boot camp of their own
