@@ -1,6 +1,7 @@
 body {
-    background-image: url("https://i.dlpng.com/static/png/6806583_preview.png");
-    color: white;
+    background: url(https://i.dlpng.com/static/png/6806583_preview.png);
+    background-color: black;
+    color: white
 }
 
 .portfolioimg {
@@ -151,13 +152,30 @@ padding-top: 10px;
 .techimgreact{
     width: 200px;
     height: 200px;
-    left: 400px;
+    left: 600px;
 }
 
 .me {
     float: left;
-    margin-right: 5px;
+    padding-right: 25px;
     width: 300px;
     height: 300px
 }
 
+.tutor {
+    text-align: center
+}
+
+.ta {
+    text-align: center
+}
+
+.trillogo {
+    margin-left: 575px;
+    width: 300px;
+    height: 200px
+}
+.mongo {
+    width: 200px;
+    height: 200px;
+}
