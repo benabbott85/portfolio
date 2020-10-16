@@ -16,7 +16,7 @@ function Technologies() {
    <Col md={3}>
 <div className="tech1">
 
-            <img className="techimg" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012011/stocklogos-template-01.png?itok=DapYF29D" alt="html"></img>
+            <img className="techimg1" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012011/stocklogos-template-01.png?itok=DapYF29D" alt="html"></img>
            
 </div>
 </Col>
@@ -25,7 +25,7 @@ function Technologies() {
   <Col md={3}>
 <div className="tech2">
   
-  <img className="techimg" src="https://www.w3schools.com/whatis/img_css.jpg" alt="css"></img>
+  <img className="techimg2" src="https://www.w3schools.com/whatis/img_css.jpg" alt="css"></img>
   
 </div>
 </Col>
@@ -35,7 +35,7 @@ function Technologies() {
   <Col md={3}>
 <div className="tech3">
   
-  <img className="techimg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtxdAFUa1PtSnn2Rc04H9sAgwVMOvpDgM3koBo9--68F-V5Qd7&usqp=CAU" alt="JS"></img>
+  <img className="techimg3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtxdAFUa1PtSnn2Rc04H9sAgwVMOvpDgM3koBo9--68F-V5Qd7&usqp=CAU" alt="JS"></img>
   
 </div>
 </Col>
@@ -45,18 +45,19 @@ function Technologies() {
   <Col md={3}>
 <div className="tech4">
   
-  <img className="techimg" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" alt="Jquery"></img>
+  <img className="techimg4" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" alt="Jquery"></img>
   
 </div>
 </Col>
 </Card>
   </Row>
+  <br></br>
   <Row>
   <Card>
     <Col md ={3}>
 <div className="tech5">
   
-  <img className="techimg" src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" alt="node"></img>
+  <img className="techimg5" src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" alt="node"></img>
   
 </div>
 </Col>
@@ -66,7 +67,7 @@ function Technologies() {
   <Col md={3}>
 <div className="tech6">
   
-  <img className="techimg" src="https://miro.medium.com/proxy/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="express"></img>
+  <img className="techimg6" src="https://miro.medium.com/proxy/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="express"></img>
   
 </div>
 </Col>
@@ -76,7 +77,7 @@ function Technologies() {
   <Col md={3}>
 <div className="tech7">
   
-  <img className="techimg" src="https://pngimg.com/uploads/mysql/mysql_PNG22.png" alt="mysql"></img>
+  <img className="techimg7" src="https://pngimg.com/uploads/mysql/mysql_PNG22.png" alt="mysql"></img>
   
 </div>
 </Col>
@@ -86,13 +87,17 @@ function Technologies() {
   <Col md={3}>
 <div className="tech8">
   
-  <img className="techimg" src="https://cdn.iconscout.com/icon/free/png-256/sequelize-1-1175002.png" alt="sequelize"></img>
+  <img className="techimg8" src="https://cdn.iconscout.com/icon/free/png-256/sequelize-1-1175002.png" alt="sequelize"></img>
   
 </div>
 </Col>
 </Card>
   </Row>
+  <br></br>
   <Row>
+    <Card className="empty">
+      <Col md={2}></Col>
+    </Card>
 
     <Card>
       <Col md={3}>
